@@ -5,6 +5,7 @@ body {
   justify-content: center;
   text-align: center;
   flex-wrap: wrap;
+  transition: 2s;
 
   background-color: rgb(243, 243, 243);
   
